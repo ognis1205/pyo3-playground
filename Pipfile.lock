@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "d18734218aae088b72f3efad470aacec2fa7482044d100e03d7593f642431697"
+            "sha256": "4c7fc978c64c5c743ea0eab3df920eb48ab36c7a8c0b9024524fcfbb8e96d5a5"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -16,6 +16,34 @@
             }
         ]
     },
-    "default": {},
+    "default": {
+        "maturin": {
+            "hashes": [
+                "sha256:0a2ca77922482030a1907d55ee38fc7ebdd1fb50241d33846c4622422b126277",
+                "sha256:0f31d62c56f3f5a5eabe9562632be23d7b0b59c4eec1f82e9550b5e38aab269e",
+                "sha256:1863771c5ee08364048ecd17f5c00b26590928411fad089d8d69168c57a4a957",
+                "sha256:2e76de8265dfb66cc643049edbc1d5506a7d9b60b20df4fad36724d29d26db02",
+                "sha256:58813be86623dbfd682df773feceb1c77cdafb51311c3f99051d1989e0866f2c",
+                "sha256:6d333de188469df045ad677d47bbef5aa4e2b9b3516c7e7ba9fa076cd2189034",
+                "sha256:6da08aa1c8fe17a8826188b281797f3e1f577a6e4155b15a0356ea06a1c74533",
+                "sha256:78ebcc6b6561d9e924e4ec5c6c84708d9b822859b301c3e1e057bbc7d1273e9d",
+                "sha256:7a45ffb0ce564b73d19bb248904736908bae8abd0e5cd79d89729c62a01c9a3a",
+                "sha256:8272bcbdee91e088e58e655661f555f38a094993eabb8776428d779f09eec8ac",
+                "sha256:a752c4afeeaa773914296889c507535ee60f14e3c4bb5a93a534e0936c402eaa",
+                "sha256:c827b7b2e5489aa897fba626bf4831c9afea7bc6a34f2293762326951fa6fdbf",
+                "sha256:cb5ceee3806c76b2af231a4171fe2254851881d7839be0a44f4261246a8551f6"
+            ],
+            "index": "pypi",
+            "version": "==0.15.2"
+        },
+        "tomli": {
+            "hashes": [
+                "sha256:939de3e7a6161af0c887ef91b7d41a53e7c5a1ca976325f429cb46ea9bc30ecc",
+                "sha256:de526c12914f0c550d15924c62d72abc48d6fe7364aa87328337a31007fe8a4f"
+            ],
+            "markers": "python_version < '3.11'",
+            "version": "==2.0.1"
+        }
+    },
     "develop": {}
 }
