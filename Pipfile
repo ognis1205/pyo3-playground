@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 maturin = "*"
+notebook = "==6.5.3"
 
 [dev-packages]
 
